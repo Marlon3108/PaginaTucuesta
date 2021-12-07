@@ -118,12 +118,13 @@ h1.titnom span {
 }
 
 .hero{
-    background-image: url(../img/professional-programmer-working-late-dark-office.jpg);/*Se usa .. para salir de una carpeta*/
+    background-image: url(../img/cropped-view-woman-filling-application-form.jpg);/*Se usa .. para salir de una carpeta*/
     background-repeat: no-repeat; /*No repite una imagen*/
     background-size: cover; /*Para que la imagen tome todo el ancho disponible*/
     height: 45.5rem;
-    padding: 2rem;
+    padding: 35rem;
     position: relative;
+    object-fit: cover;
 }
 
 .contenidoHero{
